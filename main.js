@@ -725,9 +725,10 @@ function generate_text_button(){
     document.execCommand("copy");
     window.getSelection().removeAllRanges();// to deselect
 }
-n=0
-o=0
+
 function generate_tabs_button(){
+    n=0
+    o=0
     input_tab_code=document.getElementById("generate_tabs_input").value
     input_tab_code=input_tab_code.split("_")
     for(n=0;n<input_tab_code.length;){
