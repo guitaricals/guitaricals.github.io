@@ -1205,93 +1205,514 @@ document.getElementById("621").addEventListener("mouseover",function(){
                 myFunction621()
                 });
 
+var E0 = new Audio("E0.wav")
+var E1 = new Audio("E1.wav")
+var E2 = new Audio("E2.wav")
+var E3 = new Audio("E3.wav")
+var E4 = new Audio("E4.wav")
+var E5 = new Audio("E5.wav")
+var E6 = new Audio("E6.wav")
+var E7 = new Audio("E7.wav")
+var E8 = new Audio("E8.wav")
+var E9 = new Audio("E9.wav")
+var E10 = new Audio("E10.wav")
+var E11 = new Audio("E11.wav")
+var E12 = new Audio("E12.wav")
+var E13 = new Audio("E13.wav")
+var E14 = new Audio("E14.wav")
+var E15 = new Audio("E15.wav")
+var E16 = new Audio("E16.wav")
+var E17 = new Audio("E17.wav")
+var E18 = new Audio("E18.wav")
+var E19 = new Audio("E19.wav")
+var E20 = new Audio("E20.wav")
+var A0 = new Audio("A0.wav")
+var A1 = new Audio("A1.wav")
+var A2 = new Audio("A2.wav")
+var A3 = new Audio("A3.wav")
+var A4 = new Audio("A4.wav")
+var A5 = new Audio("A5.wav")
+var A6 = new Audio("A6.wav")
+var A7 = new Audio("A7.wav")
+var A8 = new Audio("A8.wav")
+var A9 = new Audio("A9.wav")
+var A10 = new Audio("A10.wav")
+var A11 = new Audio("A11.wav")
+var A12 = new Audio("A12.wav")
+var A13 = new Audio("A13.wav")
+var A14 = new Audio("A14.wav")
+var A15 = new Audio("A15.wav")
+var A16 = new Audio("A16.wav")
+var A17 = new Audio("A17.wav")
+var A18 = new Audio("A18.wav")
+var A19 = new Audio("A19.wav")
+var A20 = new Audio("A20.wav")
+var D0 = new Audio("D0.wav")
+var D1 = new Audio("D1.wav")
+var D2 = new Audio("D2.wav")
+var D3 = new Audio("D3.wav")
+var D4 = new Audio("D4.wav")
+var D5 = new Audio("D5.wav")
+var D6 = new Audio("D6.wav")
+var D7 = new Audio("D7.wav")
+var D8 = new Audio("D8.wav")
+var D9 = new Audio("D9.wav")
+var D10 = new Audio("D10.wav")
+var D11 = new Audio("D11.wav")
+var D12 = new Audio("D12.wav")
+var D13 = new Audio("D13.wav")
+var D14 = new Audio("D14.wav")
+var D15 = new Audio("D15.wav")
+var D16 = new Audio("D16.wav")
+var D17 = new Audio("D17.wav")
+var D18 = new Audio("D18.wav")
+var D19 = new Audio("D19.wav")
+var D20 = new Audio("D20.wav")
+var G0 = new Audio("G0.wav")
+var G1 = new Audio("G1.wav")
+var G2 = new Audio("G2.wav")
+var G3 = new Audio("G3.wav")
+var G4 = new Audio("G4.wav")
+var G5 = new Audio("G5.wav")
+var G6 = new Audio("G6.wav")
+var G7 = new Audio("G7.wav")
+var G8 = new Audio("G8.wav")
+var G9 = new Audio("G9.wav")
+var G10 = new Audio("G10.wav")
+var G11 = new Audio("G11.wav")
+var G12 = new Audio("G12.wav")
+var G13 = new Audio("G13.wav")
+var G14 = new Audio("G14.wav")
+var G15 = new Audio("G15.wav")
+var G16 = new Audio("G16.wav")
+var G17 = new Audio("G17.wav")
+var G18 = new Audio("G18.wav")
+var G19 = new Audio("G19.wav")
+var G20 = new Audio("G20.wav")
+var B0 = new Audio("B0.wav")
+var B1 = new Audio("B1.wav")
+var B2 = new Audio("B2.wav")
+var B3 = new Audio("B3.wav")
+var B4 = new Audio("B4.wav")
+var B5 = new Audio("B5.wav")
+var B6 = new Audio("B6.wav")
+var B7 = new Audio("B7.wav")
+var B8 = new Audio("B8.wav")
+var B9 = new Audio("B9.wav")
+var B10 = new Audio("B10.wav")
+var B11 = new Audio("B11.wav")
+var B12 = new Audio("B12.wav")
+var B13 = new Audio("B13.wav")
+var B14 = new Audio("B14.wav")
+var B15 = new Audio("B15.wav")
+var B16 = new Audio("B16.wav")
+var B17 = new Audio("B17.wav")
+var B18 = new Audio("B18.wav")
+var B19 = new Audio("B19.wav")
+var B20 = new Audio("B20.wav")
+var L0 = new Audio("L0.wav")
+var L1 = new Audio("L1.wav")
+var L2 = new Audio("L2.wav")
+var L3 = new Audio("L3.wav")
+var L4 = new Audio("L4.wav")
+var L5 = new Audio("L5.wav")
+var L6 = new Audio("L6.wav")
+var L7 = new Audio("L7.wav")
+var L8 = new Audio("L8.wav")
+var L9 = new Audio("L9.wav")
+var L10 = new Audio("L10.wav")
+var L11 = new Audio("L11.wav")
+var L12 = new Audio("L12.wav")
+var L13 = new Audio("L13.wav")
+var L14 = new Audio("L14.wav")
+var L15 = new Audio("L15.wav")
+var L16 = new Audio("L16.wav")
+var L17 = new Audio("L17.wav")
+var L18 = new Audio("L18.wav")
+var L19 = new Audio("L19.wav")
+var L20 = new Audio("L20.wav")
+
+function stopAllChannels(){
+E0.pause()
+E0.currentTime=0
+E1.pause()
+E1.currentTime=0
+E2.pause()
+E2.currentTime=0
+E3.pause()
+E3.currentTime=0
+E4.pause()
+E4.currentTime=0
+E5.pause()
+E5.currentTime=0
+E6.pause()
+E6.currentTime=0
+E7.pause()
+E7.currentTime=0
+E8.pause()
+E8.currentTime=0
+E9.pause()
+E9.currentTime=0
+E10.pause()
+E10.currentTime=0
+E11.pause()
+E11.currentTime=0
+E12.pause()
+E12.currentTime=0
+E13.pause()
+E13.currentTime=0
+E14.pause()
+E14.currentTime=0
+E15.pause()
+E15.currentTime=0
+E16.pause()
+E16.currentTime=0
+E17.pause()
+E17.currentTime=0
+E18.pause()
+E18.currentTime=0
+E19.pause()
+E19.currentTime=0
+E20.pause()
+E20.currentTime=0
+A0.pause()
+A0.currentTime=0
+A1.pause()
+A1.currentTime=0
+A2.pause()
+A2.currentTime=0
+A3.pause()
+A3.currentTime=0
+A4.pause()
+A4.currentTime=0
+A5.pause()
+A5.currentTime=0
+A6.pause()
+A6.currentTime=0
+A7.pause()
+A7.currentTime=0
+A8.pause()
+A8.currentTime=0
+A9.pause()
+A9.currentTime=0
+A10.pause()
+A10.currentTime=0
+A11.pause()
+A11.currentTime=0
+A12.pause()
+A12.currentTime=0
+A13.pause()
+A13.currentTime=0
+A14.pause()
+A14.currentTime=0
+A15.pause()
+A15.currentTime=0
+A16.pause()
+A16.currentTime=0
+A17.pause()
+A17.currentTime=0
+A18.pause()
+A18.currentTime=0
+A19.pause()
+A19.currentTime=0
+A20.pause()
+A20.currentTime=0
+D0.pause()
+D0.currentTime=0
+D1.pause()
+D1.currentTime=0
+D2.pause()
+D2.currentTime=0
+D3.pause()
+D3.currentTime=0
+D4.pause()
+D4.currentTime=0
+D5.pause()
+D5.currentTime=0
+D6.pause()
+D6.currentTime=0
+D7.pause()
+D7.currentTime=0
+D8.pause()
+D8.currentTime=0
+D9.pause()
+D9.currentTime=0
+D10.pause()
+D10.currentTime=0
+D11.pause()
+D11.currentTime=0
+D12.pause()
+D12.currentTime=0
+D13.pause()
+D13.currentTime=0
+D14.pause()
+D14.currentTime=0
+D15.pause()
+D15.currentTime=0
+D16.pause()
+D16.currentTime=0
+D17.pause()
+D17.currentTime=0
+D18.pause()
+D18.currentTime=0
+D19.pause()
+D19.currentTime=0
+D20.pause()
+D20.currentTime=0
+G0.pause()
+G0.currentTime=0
+G1.pause()
+G1.currentTime=0
+G2.pause()
+G2.currentTime=0
+G3.pause()
+G3.currentTime=0
+G4.pause()
+G4.currentTime=0
+G5.pause()
+G5.currentTime=0
+G6.pause()
+G6.currentTime=0
+G7.pause()
+G7.currentTime=0
+G8.pause()
+G8.currentTime=0
+G9.pause()
+G9.currentTime=0
+G10.pause()
+G10.currentTime=0
+G11.pause()
+G11.currentTime=0
+G12.pause()
+G12.currentTime=0
+G13.pause()
+G13.currentTime=0
+G14.pause()
+G14.currentTime=0
+G15.pause()
+G15.currentTime=0
+G16.pause()
+G16.currentTime=0
+G17.pause()
+G17.currentTime=0
+G18.pause()
+G18.currentTime=0
+G19.pause()
+G19.currentTime=0
+G20.pause()
+G20.currentTime=0
+B0.pause()
+B0.currentTime=0
+B1.pause()
+B1.currentTime=0
+B2.pause()
+B2.currentTime=0
+B3.pause()
+B3.currentTime=0
+B4.pause()
+B4.currentTime=0
+B5.pause()
+B5.currentTime=0
+B6.pause()
+B6.currentTime=0
+B7.pause()
+B7.currentTime=0
+B8.pause()
+B8.currentTime=0
+B9.pause()
+B9.currentTime=0
+B10.pause()
+B10.currentTime=0
+B11.pause()
+B11.currentTime=0
+B12.pause()
+B12.currentTime=0
+B13.pause()
+B13.currentTime=0
+B14.pause()
+B14.currentTime=0
+B15.pause()
+B15.currentTime=0
+B16.pause()
+B16.currentTime=0
+B17.pause()
+B17.currentTime=0
+B18.pause()
+B18.currentTime=0
+B19.pause()
+B19.currentTime=0
+B20.pause()
+B20.currentTime=0
+L0.pause()
+L0.currentTime=0
+L1.pause()
+L1.currentTime=0
+L2.pause()
+L2.currentTime=0
+L3.pause()
+L3.currentTime=0
+L4.pause()
+L4.currentTime=0
+L5.pause()
+L5.currentTime=0
+L6.pause()
+L6.currentTime=0
+L7.pause()
+L7.currentTime=0
+L8.pause()
+L8.currentTime=0
+L9.pause()
+L9.currentTime=0
+L10.pause()
+L10.currentTime=0
+L11.pause()
+L11.currentTime=0
+L12.pause()
+L12.currentTime=0
+L13.pause()
+L13.currentTime=0
+L14.pause()
+L14.currentTime=0
+L15.pause()
+L15.currentTime=0
+L16.pause()
+L16.currentTime=0
+L17.pause()
+L17.currentTime=0
+L18.pause()
+L18.currentTime=0
+L19.pause()
+L19.currentTime=0
+L20.pause()
+L20.currentTime=0
+}
+
 function myFunction10() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="0"
-    
+    stopAllChannels();
+    E0.play()
 }
-
-
 function myFunction11() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="1"
+    stopAllChannels();
+    E1.play()
 }
 function myFunction12() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="2"
+    stopAllChannels();
+    E2.play()
 }
 function myFunction13() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="3"
+    stopAllChannels();
+    E3.play()
 }
 function myFunction14() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="4"
+    stopAllChannels();
+    E4.play()
 }
 function myFunction15() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="5"
+    stopAllChannels();
+    E5.play()
 }
 function myFunction16() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="6"
+    stopAllChannels();
+    E6.play()
 }
 function myFunction17() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="7"
+    stopAllChannels();
+    E7.play()
 }
 function myFunction18() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="8"
+    stopAllChannels();
+    E8.play()
 }
 function myFunction19() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="9"
+    stopAllChannels();
+    E9.play()
 }
 function myFunction110() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="10"
+    stopAllChannels();
+    E10.play()
 }
 function myFunction111() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="11"
+    stopAllChannels();
+    E11.play()
 }
 function myFunction112() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="12"
+    stopAllChannels();
+    E12.play()
 
 }
 function myFunction113() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="13"
+    stopAllChannels();
+    E13.play()
     }
 function myFunction114() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="14"
+    stopAllChannels();
+    E14.play()
     }
 function myFunction115() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="15"
+    stopAllChannels();
+    E15.play()
     }
 function myFunction116() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="16"
+    stopAllChannels();
+    E16.play()
     }
 function myFunction117() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="17"
+    stopAllChannels();
+    E17.play()
     }
 function myFunction118() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="18"
+    stopAllChannels();
+    E18.play()
     }
 function myFunction119() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="19"
+    stopAllChannels();
+    E19.play()
     }
 function myFunction120() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="20"
+    stopAllChannels();
+    E20.play()
     }
 function myFunction121() {
     reset_style(x_pos[i])
@@ -1302,86 +1723,128 @@ function myFunction121() {
 function myFunction20() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="0"
+    stopAllChannels()
+    B0.play()
     }
 function myFunction21() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="1"
+    stopAllChannels()
+    B1.play()
     }
 function myFunction22() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="2"
+    stopAllChannels()
+    B2.play()
     }
 function myFunction23() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="3"
+    stopAllChannels()
+    B3.play()
     }
 function myFunction24() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="4"
+    stopAllChannels()
+    B4.play()
     }
 function myFunction25() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="5"
+    stopAllChannels()
+    B5.play()
     }
 function myFunction26() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="6"
+    stopAllChannels()
+    B6.play()
     }
 function myFunction27() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="7"
+    stopAllChannels()
+    B7.play()
     }
 function myFunction28() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="8"
+    stopAllChannels()
+    B8.play()
     }
 function myFunction29() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="9"
+    stopAllChannels()
+    B9.play()
     }
 function myFunction210() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="10"
+    stopAllChannels()
+    B10.play()
     }
 function myFunction211() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="11"
+    stopAllChannels()
+    B11.play()
     }
 function myFunction212() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="12"
+    stopAllChannels()
+    B12.play()
     }
 function myFunction213() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="13"
+    stopAllChannels()
+    B13.play()
     }
 function myFunction214() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="14"
+    stopAllChannels()
+    B14.play()
     }
 function myFunction215() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="15"
+    stopAllChannels()
+    B15.play()
     }
 function myFunction216() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="16"
+    stopAllChannels()
+    B16.play()
     }
 function myFunction217() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="17"
+    stopAllChannels()
+    B17.play()
     }
 function myFunction218() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="18"
+    stopAllChannels()
+    B18.play()
     }
 function myFunction219() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="19"
+    stopAllChannels()
+    B19.play()
     }
 function myFunction220() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="20"
+    stopAllChannels()
+    B20.play()
     }
 function myFunction221() {
     reset_style(x_pos2[i])
@@ -1391,86 +1854,128 @@ function myFunction221() {
 function myFunction30() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="0"
+    stopAllChannels()
+    G0.play()
     }
 function myFunction31() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="1"
+    stopAllChannels()
+    G1.play()
     }
 function myFunction32() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="2"
+    stopAllChannels()
+    G2.play()
     }
 function myFunction33() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="3"
+    stopAllChannels()
+    G3.play()
     }
 function myFunction34() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="4"
+    stopAllChannels()
+    G4.play()
     }
 function myFunction35() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="5"
+    stopAllChannels()
+    G5.play()
     }
 function myFunction36() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="6"
+    stopAllChannels()
+    G6.play()
     }
 function myFunction37() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="7"
+    stopAllChannels()
+    G7.play()
     }
 function myFunction38() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="8"
+    stopAllChannels()
+    G8.play()
     }
 function myFunction39() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="9"
+    stopAllChannels()
+    G9.play()
     }
 function myFunction310() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="10"
+    stopAllChannels()
+    G10.play()
     }
 function myFunction311() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="11"
+    stopAllChannels()
+    G11.play()
     }
 function myFunction312() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="12"
+    stopAllChannels()
+    G12.play()
     }
 function myFunction313() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="13"
+    stopAllChannels()
+    G13.play()
     }
 function myFunction314() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="14"
+    stopAllChannels()
+    G14.play()
     }
 function myFunction315() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="15"
+    stopAllChannels()
+    G15.play()
     }
 function myFunction316() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="16"
+    stopAllChannels()
+    G16.play()
     }
 function myFunction317() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="17"
+    stopAllChannels()
+    G17.play()
     }
 function myFunction318() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="18"
+    stopAllChannels()
+    G18.play()
     }
 function myFunction319() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="19"
+    stopAllChannels()
+    G19.play()
     }
 function myFunction320() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="20"
+    stopAllChannels()
+    G20.play()
     }
 function myFunction321() {
     reset_style(x_pos3[i])
@@ -1480,86 +1985,128 @@ function myFunction321() {
 function myFunction40() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="0"
+    stopAllChannels()
+    D0.play()
     }
 function myFunction41() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="1"
+    stopAllChannels()
+    D1.play()
     }
 function myFunction42() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="2"
+    stopAllChannels()
+    D2.play()
     }
 function myFunction43() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="3"
+    stopAllChannels()
+    D3.play()
     }
 function myFunction44() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="4"
+    stopAllChannels()
+    D4.play()
     }
 function myFunction45() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="5"
+    stopAllChannels()
+    D5.play()
     }
 function myFunction46() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="6"
+    stopAllChannels()
+    D6.play()
     }
 function myFunction47() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="7"
+    stopAllChannels()
+    D7.play()
     }
 function myFunction48() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="8"
+    stopAllChannels()
+    D8.play()
     }
 function myFunction49() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="9"
+    stopAllChannels()
+    D9.play()
     }
 function myFunction410() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="10"
+    stopAllChannels()
+    D10.play()
     }
 function myFunction411() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="11"
+    stopAllChannels()
+    D11.play()
     }
 function myFunction412() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="12"
+    stopAllChannels()
+    D12.play()
     }
 function myFunction413() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="13"
+    stopAllChannels()
+    D13.play()
     }
 function myFunction414() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="14"
+    stopAllChannels()
+    D14.play()
     }
 function myFunction415() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="15"
+    stopAllChannels()
+    D15.play()
     }
 function myFunction416() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="16"
+    stopAllChannels()
+    D16.play()
     }
 function myFunction417() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="17"
+    stopAllChannels()
+    D17.play()
     }
 function myFunction418() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="18"
+    stopAllChannels()
+    D18.play()
     }
 function myFunction419() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="19"
+    stopAllChannels()
+    D19.play()
     }
 function myFunction420() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="20"
+    stopAllChannels()
+    D20.play()
     }
 function myFunction421() {
     reset_style(x_pos4[i])
@@ -1568,86 +2115,128 @@ function myFunction421() {
 function myFunction50() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="0"
+    stopAllChannels()
+    A0.play()
     }
 function myFunction51() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="1"
+    stopAllChannels()
+    A1.play()
     }
 function myFunction52() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="2"
+    stopAllChannels()
+    A2.play()
     }
 function myFunction53() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="3"
+    stopAllChannels()
+    A3.play()
     }
 function myFunction54() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="4"
+    stopAllChannels()
+    A4.play()
     }
 function myFunction55() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="5"
+    stopAllChannels()
+    A5.play()
     }
 function myFunction56() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="6"
+    stopAllChannels()
+    A6.play()
     }
 function myFunction57() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="7"
+    stopAllChannels()
+    A7.play()
     }
 function myFunction58() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="8"
+    stopAllChannels()
+    A8.play()
     }
 function myFunction59() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="9"
+    stopAllChannels()
+    A9.play()
     }
 function myFunction510() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="10"
+    stopAllChannels()
+    A10.play()
     }
 function myFunction511() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="11"
+    stopAllChannels()
+    A11.play()
     }
 function myFunction512() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="12"
+    stopAllChannels()
+    A12.play()
     }
 function myFunction513() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="13"
+    stopAllChannels()
+    A13.play()
     }
 function myFunction514() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="14"
+    stopAllChannels()
+    A14.play()
     }
 function myFunction515() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="15"
+    stopAllChannels()
+    A15.play()
     }
 function myFunction516() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="16"
+    stopAllChannels()
+    A16.play()
     }
 function myFunction517() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="17"
+    stopAllChannels()
+    A17.play()
     }
 function myFunction518() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="18"
+    stopAllChannels()
+    A18.play()
     }
 function myFunction519() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="19"
+    stopAllChannels()
+    A19.play()
     }
 function myFunction520() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="20"
+    stopAllChannels()
+    A20.play()
     }
 function myFunction521() {
     reset_style(x_pos5[i])
@@ -1656,86 +2245,128 @@ function myFunction521() {
 function myFunction60() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="0"
+    stopAllChannels()
+    L0.play()
     }
 function myFunction61() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="1"
+    stopAllChannels()
+    L1.play()
     }
 function myFunction62() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="2"
+    stopAllChannels()
+    L2.play()
     }
 function myFunction63() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="3"
+    stopAllChannels()
+    L3.play()
     }
 function myFunction64() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="4"
+    stopAllChannels()
+    L4.play()
     }
 function myFunction65() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="5"
+    stopAllChannels()
+    L5.play()
     }
 function myFunction66() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="6"
+    stopAllChannels()
+    L6.play()
     }
 function myFunction67() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="7"
+    stopAllChannels()
+    L7.play()
     }
 function myFunction68() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="8"
+    stopAllChannels()
+    L8.play()
     }
 function myFunction69() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="9"
+    stopAllChannels()
+    L9.play()
     }
 function myFunction610() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="10"
+    stopAllChannels()
+    L10.play()
     }
 function myFunction611() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="11"
+    stopAllChannels()
+    L11.play()
     }
 function myFunction612() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="12"
+    stopAllChannels()
+    L12.play()
     }
 function myFunction613() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="13"
+    stopAllChannels()
+    L13.play()
     }
 function myFunction614() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="14"
+    stopAllChannels()
+    L14.play()
     }
 function myFunction615() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="15"
+    stopAllChannels()
+    L15.play()
     }
 function myFunction616() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="16"
+    stopAllChannels()
+    L16.play()
     }
 function myFunction617() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="17"
+    stopAllChannels()
+    L17.play()
     }
 function myFunction618() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="18"
+    stopAllChannels()
+    L18.play()
     }
 function myFunction619() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="19"
+    stopAllChannels()
+    L19.play()
     }
 function myFunction620() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="20"
+    stopAllChannels()
+    L20.play()
     }
 function myFunction621() {
     reset_style(x_pos6[i])
