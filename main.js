@@ -1588,15 +1588,17 @@ L20.pause()
 L20.currentTime=0
 }
 
-function myFunction10() {
+function myFunction10() {	
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="0"
+    record()
     stopAllChannels();
     E0.play()
 }
 function myFunction11() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="1"
+    record()
     stopAllChannels();
     E1.play()
 }
@@ -3141,4 +3143,19 @@ function the_prev(){
     else if(i<440){marker.style.marginLeft=(i-418)*45+".px";
                }
     //marker.style.marginLeft=i*44+".px";
+}
+function record(){
+    var recognition=new webkitSpeechRecognition();
+    recognition.lang="en-US";
+    recognition.onresult=function(event){
+        console.log(event.results[0][0].transcript)
+        if(event.results[0][0].transcript=='10'){
+            myFunction10()
+        }
+        else if(event.results[0][0].transcript=='11'){
+            myFunction11()
+        }
+    }
+    recognition.start();
+
 }
