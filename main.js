@@ -2512,21 +2512,27 @@ function myFunction621() {
 
 function myFunctionClear1(){
 	document.getElementById(x_pos[i]).innerHTML=""
+    record()
 }
 function myFunctionClear2(){
 	document.getElementById(x_pos2[i]).innerHTML=""
+    record()
 }
 function myFunctionClear3(){
 	document.getElementById(x_pos3[i]).innerHTML=""
+    record()
 }
 function myFunctionClear4(){
 	document.getElementById(x_pos4[i]).innerHTML=""
+    record()
 }
 function myFunctionClear5(){
 	document.getElementById(x_pos5[i]).innerHTML=""
+    record()
 }
 function myFunctionClear6(){
 	document.getElementById(x_pos6[i]).innerHTML=""
+    record()
 }
 
 
@@ -2603,31 +2609,37 @@ function slidedown_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="\\"
     document.getElementById(x_pos[i]).style.left="20px"
+    record()
 }
 function slidedown_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="\\"
     document.getElementById(x_pos2[i]).style.left="20px"
+    record()
 }
 function slidedown_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="\\"
     document.getElementById(x_pos3[i]).style.left="20px"
+    record()
 }
 function slidedown_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="\\"
     document.getElementById(x_pos4[i]).style.left="20px"
+    record()
 }
 function slidedown_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="\\"
     document.getElementById(x_pos5[i]).style.left="20px"
+    record()
 }
 function slidedown_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="\\"
     document.getElementById(x_pos6[i]).style.left="20px"
+    record()
 }
 
 document.getElementById("slideup_1").addEventListener("mouseover", function(){
@@ -2653,31 +2665,37 @@ function slideup_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="/"
     document.getElementById(x_pos[i]).style.left="20px"
+    record()
 }
 function slideup_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="/"
     document.getElementById(x_pos2[i]).style.left="20px"
+    record()
 }
 function slideup_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="/"
     document.getElementById(x_pos3[i]).style.left="20px"
+    record()
 }
 function slideup_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="/"
     document.getElementById(x_pos4[i]).style.left="20px"
+    record()
 }
 function slideup_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="/"
     document.getElementById(x_pos5[i]).style.left="20px"
+    record()
 }
 function slideup_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="/"
     document.getElementById(x_pos6[i]).style.left="20px"
+    record()
 }
 
 document.getElementById("vibrato_1").addEventListener("mouseover", function(){
@@ -2798,31 +2816,37 @@ function pull_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="p"
     document.getElementById(x_pos[i]).style.left="20px"
+    record()
 }
 function pull_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="p"
     document.getElementById(x_pos2[i]).style.left="20px"
+    record()
 }
 function pull_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="p"
     document.getElementById(x_pos3[i]).style.left="20px"
+    record()
 }
 function pull_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="p"
     document.getElementById(x_pos4[i]).style.left="20px"
+    record()
 }
 function pull_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="p"
     document.getElementById(x_pos5[i]).style.left="20px"
+    record()
 }
 function pull_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="p"
     document.getElementById(x_pos6[i]).style.left="20px"
+    record()
 }
 
 document.getElementById("hammer_1").addEventListener("mouseover",function(){
@@ -2847,31 +2871,37 @@ function hammer_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="h"
     document.getElementById(x_pos[i]).style.left="20px"
+    record()
 }
 function hammer_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="h"
     document.getElementById(x_pos2[i]).style.left="20px"
+    record()
 }
 function hammer_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="h"
     document.getElementById(x_pos3[i]).style.left="20px"
+    record()
 }
 function hammer_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="h"
     document.getElementById(x_pos4[i]).style.left="20px"
+    record()
 }
 function hammer_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="h"
     document.getElementById(x_pos5[i]).style.left="20px"
+    record()
 }
 function hammer_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="h"
     document.getElementById(x_pos6[i]).style.left="20px"
+    record()
 }
 
 document.getElementById("strum_down_1").addEventListener("mouseover", function(){
@@ -2895,32 +2925,38 @@ document.getElementById("strum_down_6").addEventListener("mouseover", function()
 function strum_down_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="^"
-    document.getElementById(x_pos[i]).style.left="20px"        
+    document.getElementById(x_pos[i]).style.left="20px"
+    record()
 }
 function strum_down_2(){
     reset_style(x_pos2[i])	 
     document.getElementById(x_pos2[i]).innerHTML="^"
     document.getElementById(x_pos2[i]).style.left="20px"
+    record()
 }
 function strum_down_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="^"
-    document.getElementById(x_pos3[i]).style.left="20px"        
+    document.getElementById(x_pos3[i]).style.left="20px"
+    record()
 }
 function strum_down_4(){
     reset_style(x_pos4[i])	 
     document.getElementById(x_pos4[i]).innerHTML="^"
     document.getElementById(x_pos4[i]).style.left="20px"
+    record()
 }
 function strum_down_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="^"
-    document.getElementById(x_pos5[i]).style.left="20px"        
+    document.getElementById(x_pos5[i]).style.left="20px"
+    record()
 }
 function strum_down_6(){
     reset_style(x_pos6[i])	 
     document.getElementById(x_pos6[i]).innerHTML="^"
     document.getElementById(x_pos6[i]).style.left="20px"
+    record()
 }
 
 document.getElementById("ah_1").addEventListener("mouseover", function(){
