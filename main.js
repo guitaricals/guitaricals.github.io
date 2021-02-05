@@ -3044,26 +3044,32 @@ document.getElementById("mute_string_6").addEventListener("mouseover", function(
 function mute_string_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="X"
+    record()
 }
 function mute_string_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="X"
+    record()
 }
 function mute_string_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="X"
+    record()
 }
 function mute_string_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="X"
+    record()
 }
 function mute_string_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="X"
+    record()
 }
 function mute_string_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="X"
+    record()
 }
 function set_focus_tab_block_1(){
     i=0
@@ -3676,6 +3682,149 @@ function record(){
         }
         else if(event.results[0][0].transcript=='621'){
             myFunction621()
+        }
+        else if(event.results[0][0].transcript=='hammer 1'){
+            hammer_1()
+        }
+        else if(event.results[0][0].transcript=='hammer 2'){
+            hammer_2()
+        }
+        else if(event.results[0][0].transcript=='hammer 3'){
+            hammer_3()
+        }
+        else if(event.results[0][0].transcript=='hammer 4'){
+            hammer_4()
+        }
+        else if(event.results[0][0].transcript=='hammer 5'){
+            hammer_5()
+        }
+        else if(event.results[0][0].transcript=='hammer 6'){
+            hammer_6()
+        }
+        else if(event.results[0][0].transcript=='pull 1'){
+            pull_1()
+        }
+        else if(event.results[0][0].transcript=='pull 2'){
+            pull_2()
+        }
+        else if(event.results[0][0].transcript=='pull 3'){
+            pull_3()
+        }
+        else if(event.results[0][0].transcript=='pull 4'){
+            pull_4()
+        }
+        else if(event.results[0][0].transcript=='pull 5'){
+            pull_5()
+        }
+        else if(event.results[0][0].transcript=='pull 6'){
+            pull_6()
+        }
+        else if(event.results[0][0].transcript=='strum 1'){
+            strum_down_1()
+        }
+        else if(event.results[0][0].transcript=='strum 2'){
+            strum_down_2()
+        }
+        else if(event.results[0][0].transcript=='strum 3'){
+            strum_down_3()
+        }
+        else if(event.results[0][0].transcript=='strum 4'){
+            strum_down_4()
+        }
+        else if(event.results[0][0].transcript=='strum 5'){
+            strum_down_5()
+        }
+        else if(event.results[0][0].transcript=='strum 6'){
+            strum_down_6()
+        }
+        else if(event.results[0][0].transcript=='slide up 1'){
+            slideup_1()
+        }
+        else if(event.results[0][0].transcript=='slide up 2'){
+            slideup_2()
+        }
+        else if(event.results[0][0].transcript=='slide up 3'){
+            slideup_3()
+        }
+        else if(event.results[0][0].transcript=='slide up 4'){
+            slideup_4()
+        }
+        else if(event.results[0][0].transcript=='slide up 5'){
+            slideup_5()
+        }
+        else if(event.results[0][0].transcript=='slide up 6'){
+            slideup_6()
+        }
+        else if(event.results[0][0].transcript=='slide down 1'){
+            slidedown_1()
+        }
+        else if(event.results[0][0].transcript=='slide down 2'){
+            slidedown_2()
+        }
+        else if(event.results[0][0].transcript=='slide down 3'){
+            slidedown_3()
+        }
+        else if(event.results[0][0].transcript=='slide down 4'){
+            slidedown_4()
+        }
+        else if(event.results[0][0].transcript=='slide down 5'){
+            slidedown_5()
+        }
+        else if(event.results[0][0].transcript=='slide down 6'){
+            slidedown_6()
+        }
+        else if(event.results[0][0].transcript=='mute 1'){
+            mute_string_1()
+        }
+        else if(event.results[0][0].transcript=='mute 2'){
+            mute_string_2()
+        }
+        else if(event.results[0][0].transcript=='mute 3'){
+            mute_string_3()
+        }
+        else if(event.results[0][0].transcript=='mute 4'){
+            mute_string_4()
+        }
+        else if(event.results[0][0].transcript=='mute 5'){
+            mute_string_5()
+        }
+        else if(event.results[0][0].transcript=='mute 6'){
+            mute_string_6()
+        }
+        else if(event.results[0][0].transcript=='clear 1'){
+            myFunctionClear1()
+        }
+        else if(event.results[0][0].transcript=='clear 2'){
+            myFunctionClear2()
+        }
+        else if(event.results[0][0].transcript=='clear 3'){
+            myFunctionClear3()
+        }
+        else if(event.results[0][0].transcript=='clear 4'){
+            myFunctionClear4()
+        }
+        else if(event.results[0][0].transcript=='clear 5'){
+            myFunctionClear5()
+        }
+        else if(event.results[0][0].transcript=='clear 6'){
+            myFunctionClear6()
+        }
+        else if(event.results[0][0].transcript=='clear all'){
+            myFunctionClear1()
+            myFunctionClear2()
+            myFunctionClear3()
+            myFunctionClear4()
+            myFunctionClear5()
+            myFunctionClear6()
+        }
+        else if(event.results[0][0].transcript=='next'){
+            the_next()
+        }
+        else if(event.results[0][0].transcript=='previous'){
+            the_prev()
+        }
+        else{
+            record()
         }
     }
     recognition.start();
