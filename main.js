@@ -2372,24 +2372,6 @@ function tap_6(){
 }
 
 
-document.getElementById("mute_string_1").addEventListener("mouseover", function(){
-    mute_string_1();
-});
-document.getElementById("mute_string_2").addEventListener("mouseover", function(){
-    mute_string_2();
-});
-document.getElementById("mute_string_3").addEventListener("mouseover", function(){
-    mute_string_3();
-});
-document.getElementById("mute_string_4").addEventListener("mouseover", function(){
-    mute_string_4();
-});
-document.getElementById("mute_string_5").addEventListener("mouseover", function(){
-    mute_string_5();
-});
-document.getElementById("mute_string_6").addEventListener("mouseover", function(){
-    mute_string_6();
-});
 function mute_string_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="X"
