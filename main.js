@@ -645,15 +645,15 @@ document.addEventListener("keypress", function(event) {
       else if(event.key==='.'){
       the_next();	
       }
-      else if(event.key===' '){
+      else if(event.key='C'){
       myFunctionClear1();
       myFunctionClear2()
       myFunctionClear3()
       myFunctionClear4()
       myFunctionClear5()
-      myFunctionClear6()      
-      }	
-      	
+      myFunctionClear6()
+
+      }
   });
 
 function hide_switch() {
