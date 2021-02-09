@@ -809,402 +809,6 @@ document.getElementById("6_blank").addEventListener("mouseover",function(){
 
 
 
-document.getElementById("10").addEventListener("mouseover",function(){
-                myFunction10()
-                });
-document.getElementById("11").addEventListener("mouseover",function(){
-                myFunction11()
-                });
-document.getElementById("12").addEventListener("mouseover",function(){
-                myFunction12()
-                });
-document.getElementById("13").addEventListener("mouseover",function(){
-                myFunction13()
-                });
-document.getElementById("14").addEventListener("mouseover",function(){
-                myFunction14()
-                });
-document.getElementById("15").addEventListener("mouseover",function(){
-                myFunction15()
-                });
-document.getElementById("16").addEventListener("mouseover",function(){
-                myFunction16()
-                });
-document.getElementById("17").addEventListener("mouseover",function(){
-                myFunction17()
-                });
-document.getElementById("18").addEventListener("mouseover",function(){
-                myFunction18()
-                });
-document.getElementById("19").addEventListener("mouseover",function(){
-                myFunction19()
-                });
-document.getElementById("110").addEventListener("mouseover",function(){
-                myFunction110()
-                });
-document.getElementById("111").addEventListener("mouseover",function(){
-                myFunction111()
-                });
-document.getElementById("112").addEventListener("mouseover",function(){
-                myFunction112()
-                });
-document.getElementById("113").addEventListener("mouseover",function(){
-                myFunction113()
-                });
-document.getElementById("114").addEventListener("mouseover",function(){
-                myFunction114()
-                });
-document.getElementById("115").addEventListener("mouseover",function(){
-                myFunction115()
-                });
-document.getElementById("116").addEventListener("mouseover",function(){
-                myFunction116()
-                });
-document.getElementById("117").addEventListener("mouseover",function(){
-                myFunction117()
-                });
-document.getElementById("118").addEventListener("mouseover",function(){
-                myFunction118()
-                });
-document.getElementById("119").addEventListener("mouseover",function(){
-                myFunction119()
-                });
-document.getElementById("120").addEventListener("mouseover",function(){
-                myFunction120()
-                });
-document.getElementById("121").addEventListener("mouseover",function(){
-                myFunction121()
-                });
-document.getElementById("20").addEventListener("mouseover",function(){
-                myFunction20()
-                });
-document.getElementById("21").addEventListener("mouseover",function(){
-                myFunction21()
-                });
-document.getElementById("22").addEventListener("mouseover",function(){
-                myFunction22()
-                });
-document.getElementById("23").addEventListener("mouseover",function(){
-                myFunction23()
-                });
-document.getElementById("24").addEventListener("mouseover",function(){
-                myFunction24()
-                });
-document.getElementById("25").addEventListener("mouseover",function(){
-                myFunction25()
-                });
-document.getElementById("26").addEventListener("mouseover",function(){
-                myFunction26()
-                });
-document.getElementById("27").addEventListener("mouseover",function(){
-                myFunction27()
-                });
-document.getElementById("28").addEventListener("mouseover",function(){
-                myFunction28()
-                });
-document.getElementById("29").addEventListener("mouseover",function(){
-                myFunction29()
-                });
-document.getElementById("210").addEventListener("mouseover",function(){
-                myFunction210()
-                });
-document.getElementById("211").addEventListener("mouseover",function(){
-                myFunction211()
-                });
-document.getElementById("212").addEventListener("mouseover",function(){
-                myFunction212()
-                });
-document.getElementById("213").addEventListener("mouseover",function(){
-                myFunction213()
-                });
-document.getElementById("214").addEventListener("mouseover",function(){
-                myFunction214()
-                });
-document.getElementById("215").addEventListener("mouseover",function(){
-                myFunction215()
-                });
-document.getElementById("216").addEventListener("mouseover",function(){
-                myFunction216()
-                });
-document.getElementById("217").addEventListener("mouseover",function(){
-                myFunction217()
-                });
-document.getElementById("218").addEventListener("mouseover",function(){
-                myFunction218()
-                });
-document.getElementById("219").addEventListener("mouseover",function(){
-                myFunction219()
-                });
-document.getElementById("220").addEventListener("mouseover",function(){
-                myFunction220()
-                });
-document.getElementById("221").addEventListener("mouseover",function(){
-                myFunction221()
-                });
-document.getElementById("30").addEventListener("mouseover",function(){
-                myFunction30()
-                });
-document.getElementById("31").addEventListener("mouseover",function(){
-                myFunction31()
-                });
-document.getElementById("32").addEventListener("mouseover",function(){
-                myFunction32()
-                });
-document.getElementById("33").addEventListener("mouseover",function(){
-                myFunction33()
-                });
-document.getElementById("34").addEventListener("mouseover",function(){
-                myFunction34()
-                });
-document.getElementById("35").addEventListener("mouseover",function(){
-                myFunction35()
-                });
-document.getElementById("36").addEventListener("mouseover",function(){
-                myFunction36()
-                });
-document.getElementById("37").addEventListener("mouseover",function(){
-                myFunction37()
-                });
-document.getElementById("38").addEventListener("mouseover",function(){
-                myFunction38()
-                });
-document.getElementById("39").addEventListener("mouseover",function(){
-                myFunction39()
-                });
-document.getElementById("310").addEventListener("mouseover",function(){
-                myFunction310()
-                });
-document.getElementById("311").addEventListener("mouseover",function(){
-                myFunction311()
-                });
-document.getElementById("312").addEventListener("mouseover",function(){
-                myFunction312()
-                });
-document.getElementById("313").addEventListener("mouseover",function(){
-                myFunction313()
-                });
-document.getElementById("314").addEventListener("mouseover",function(){
-                myFunction314()
-                });
-document.getElementById("315").addEventListener("mouseover",function(){
-                myFunction315()
-                });
-document.getElementById("316").addEventListener("mouseover",function(){
-                myFunction316()
-                });
-document.getElementById("317").addEventListener("mouseover",function(){
-                myFunction317()
-                });
-document.getElementById("318").addEventListener("mouseover",function(){
-                myFunction318()
-                });
-document.getElementById("319").addEventListener("mouseover",function(){
-                myFunction319()
-                });
-document.getElementById("320").addEventListener("mouseover",function(){
-                myFunction320()
-                });
-document.getElementById("321").addEventListener("mouseover",function(){
-                myFunction321()
-                });
-document.getElementById("40").addEventListener("mouseover",function(){
-                myFunction40()
-                });
-document.getElementById("41").addEventListener("mouseover",function(){
-                myFunction41()
-                });
-document.getElementById("42").addEventListener("mouseover",function(){
-                myFunction42()
-                });
-document.getElementById("43").addEventListener("mouseover",function(){
-                myFunction43()
-                });
-document.getElementById("44").addEventListener("mouseover",function(){
-                myFunction44()
-                });
-document.getElementById("45").addEventListener("mouseover",function(){
-                myFunction45()
-                });
-document.getElementById("46").addEventListener("mouseover",function(){
-                myFunction46()
-                });
-document.getElementById("47").addEventListener("mouseover",function(){
-                myFunction47()
-                });
-document.getElementById("48").addEventListener("mouseover",function(){
-                myFunction48()
-                });
-document.getElementById("49").addEventListener("mouseover",function(){
-                myFunction49()
-                });
-document.getElementById("410").addEventListener("mouseover",function(){
-                myFunction410()
-                });
-document.getElementById("411").addEventListener("mouseover",function(){
-                myFunction411()
-                });
-document.getElementById("412").addEventListener("mouseover",function(){
-                myFunction412()
-                });
-document.getElementById("413").addEventListener("mouseover",function(){
-                myFunction413()
-                });
-document.getElementById("414").addEventListener("mouseover",function(){
-                myFunction414()
-                });
-document.getElementById("415").addEventListener("mouseover",function(){
-                myFunction415()
-                });
-document.getElementById("416").addEventListener("mouseover",function(){
-                myFunction416()
-                });
-document.getElementById("417").addEventListener("mouseover",function(){
-                myFunction417()
-                });
-document.getElementById("418").addEventListener("mouseover",function(){
-                myFunction418()
-                });
-document.getElementById("419").addEventListener("mouseover",function(){
-                myFunction419()
-                });
-document.getElementById("420").addEventListener("mouseover",function(){
-                myFunction420()
-                });
-document.getElementById("421").addEventListener("mouseover",function(){
-                myFunction421()
-                });
-document.getElementById("50").addEventListener("mouseover",function(){
-                myFunction50()
-                });
-document.getElementById("51").addEventListener("mouseover",function(){
-                myFunction51()
-                });
-document.getElementById("52").addEventListener("mouseover",function(){
-                myFunction52()
-                });
-document.getElementById("53").addEventListener("mouseover",function(){
-                myFunction53()
-                });
-document.getElementById("54").addEventListener("mouseover",function(){
-                myFunction54()
-                });
-document.getElementById("55").addEventListener("mouseover",function(){
-                myFunction55()
-                });
-document.getElementById("56").addEventListener("mouseover",function(){
-                myFunction56()
-                });
-document.getElementById("57").addEventListener("mouseover",function(){
-                myFunction57()
-                });
-document.getElementById("58").addEventListener("mouseover",function(){
-                myFunction58()
-                });
-document.getElementById("59").addEventListener("mouseover",function(){
-                myFunction59()
-                });
-document.getElementById("510").addEventListener("mouseover",function(){
-                myFunction510()
-                });
-document.getElementById("511").addEventListener("mouseover",function(){
-                myFunction511()
-                });
-document.getElementById("512").addEventListener("mouseover",function(){
-                myFunction512()
-                });
-document.getElementById("513").addEventListener("mouseover",function(){
-                myFunction513()
-                });
-document.getElementById("514").addEventListener("mouseover",function(){
-                myFunction514()
-                });
-document.getElementById("515").addEventListener("mouseover",function(){
-                myFunction515()
-                });
-document.getElementById("516").addEventListener("mouseover",function(){
-                myFunction516()
-                });
-document.getElementById("517").addEventListener("mouseover",function(){
-                myFunction517()
-                });
-document.getElementById("518").addEventListener("mouseover",function(){
-                myFunction518()
-                });
-document.getElementById("519").addEventListener("mouseover",function(){
-                myFunction519()
-                });
-document.getElementById("520").addEventListener("mouseover",function(){
-                myFunction520()
-                });
-document.getElementById("521").addEventListener("mouseover",function(){
-                myFunction521()
-                });
-document.getElementById("60").addEventListener("mouseover",function(){
-                myFunction60()
-                });
-document.getElementById("61").addEventListener("mouseover",function(){
-                myFunction61()
-                });
-document.getElementById("62").addEventListener("mouseover",function(){
-                myFunction62()
-                });
-document.getElementById("63").addEventListener("mouseover",function(){
-                myFunction63()
-                });
-document.getElementById("64").addEventListener("mouseover",function(){
-                myFunction64()
-                });
-document.getElementById("65").addEventListener("mouseover",function(){
-                myFunction65()
-                });
-document.getElementById("66").addEventListener("mouseover",function(){
-                myFunction66()
-                });
-document.getElementById("67").addEventListener("mouseover",function(){
-                myFunction67()
-                });
-document.getElementById("68").addEventListener("mouseover",function(){
-                myFunction68()
-                });
-document.getElementById("69").addEventListener("mouseover",function(){
-                myFunction69()
-                });
-document.getElementById("610").addEventListener("mouseover",function(){
-                myFunction610()
-                });
-document.getElementById("611").addEventListener("mouseover",function(){
-                myFunction611()
-                });
-document.getElementById("612").addEventListener("mouseover",function(){
-                myFunction612()
-                });
-document.getElementById("613").addEventListener("mouseover",function(){
-                myFunction613()
-                });
-document.getElementById("614").addEventListener("mouseover",function(){
-                myFunction614()
-                });
-document.getElementById("615").addEventListener("mouseover",function(){
-                myFunction615()
-                });
-document.getElementById("616").addEventListener("mouseover",function(){
-                myFunction616()
-                });
-document.getElementById("617").addEventListener("mouseover",function(){
-                myFunction617()
-                });
-document.getElementById("618").addEventListener("mouseover",function(){
-                myFunction618()
-                });
-document.getElementById("619").addEventListener("mouseover",function(){
-                myFunction619()
-                });
-document.getElementById("620").addEventListener("mouseover",function(){
-                myFunction620()
-                });
-document.getElementById("621").addEventListener("mouseover",function(){
-                myFunction621()
-                });
 
 var E0 = new Audio("E0.wav")
 var E1 = new Audio("E1.wav")
@@ -1591,14 +1195,12 @@ L20.currentTime=0
 function myFunction10() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="0"
-    record()
     stopAllChannels();
     E0.play()
 }
 function myFunction11() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="1"
-    record()
     stopAllChannels();
     E1.play()
 
@@ -1606,77 +1208,66 @@ function myFunction11() {
 function myFunction12() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="2"
-    record()
     stopAllChannels();
     E2.play()
 }
 function myFunction13() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="3"
-    record()
     stopAllChannels();
     E3.play()
 }
 function myFunction14() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="4"
-    record()
     stopAllChannels();
     E4.play()
 }
 function myFunction15() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="5"
-    record()
     stopAllChannels();
     E5.play()
 }
 function myFunction16() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="6"
-    record()
     stopAllChannels();
     E6.play()
 }
 function myFunction17() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="7"
-    record()
     stopAllChannels();
     E7.play()
 }
 function myFunction18() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="8"
-    record()
     stopAllChannels();
     E8.play()
 }
 function myFunction19() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="9"
-    record()
     stopAllChannels();
     E9.play()
 }
 function myFunction110() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="10"
-    record()
     stopAllChannels();
     E10.play()
 }
 function myFunction111() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="11"
-    record()
     stopAllChannels();
     E11.play()
 }
 function myFunction112() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="12"
-    record()
     stopAllChannels();
     E12.play()
 
@@ -1684,827 +1275,708 @@ function myFunction112() {
 function myFunction113() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="13"
-    record()
     stopAllChannels();
     E13.play()
     }
 function myFunction114() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="14"
-    record()
     stopAllChannels();
     E14.play()
     }
 function myFunction115() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="15"
-    record()
     stopAllChannels();
     E15.play()
     }
 function myFunction116() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="16"
-    record()
     stopAllChannels();
     E16.play()
     }
 function myFunction117() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="17"
-    record()
     stopAllChannels();
     E17.play()
     }
 function myFunction118() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="18"
-    record()
     stopAllChannels();
     E18.play()
     }
 function myFunction119() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="19"
-    record()
     stopAllChannels();
     E19.play()
     }
 function myFunction120() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="20"
-    record()
     stopAllChannels();
     E20.play()
     }
 function myFunction121() {
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="21"
-    record()
     }
 
 
 function myFunction20() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="0"
-    record()
     stopAllChannels()
     B0.play()
     }
 function myFunction21() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="1"
-    record()
     stopAllChannels()
     B1.play()
     }
 function myFunction22() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="2"
-    record()
     stopAllChannels()
     B2.play()
     }
 function myFunction23() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="3"
-    record()
     stopAllChannels()
     B3.play()
     }
 function myFunction24() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="4"
-    record()
     stopAllChannels()
     B4.play()
     }
 function myFunction25() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="5"
-    record()
     stopAllChannels()
     B5.play()
     }
 function myFunction26() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="6"
-    record()
     stopAllChannels()
     B6.play()
     }
 function myFunction27() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="7"
-    record()
     stopAllChannels()
     B7.play()
     }
 function myFunction28() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="8"
-    record()
     stopAllChannels()
     B8.play()
     }
 function myFunction29() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="9"
-    record()
     stopAllChannels()
     B9.play()
     }
 function myFunction210() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="10"
-    record()
     stopAllChannels()
     B10.play()
     }
 function myFunction211() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="11"
-    record()
     stopAllChannels()
     B11.play()
     }
 function myFunction212() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="12"
-    record()
     stopAllChannels()
     B12.play()
     }
 function myFunction213() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="13"
-    record()
     stopAllChannels()
     B13.play()
     }
 function myFunction214() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="14"
-    record()
     stopAllChannels()
     B14.play()
     }
 function myFunction215() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="15"
-    record()
     stopAllChannels()
     B15.play()
     }
 function myFunction216() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="16"
-    record()
     stopAllChannels()
     B16.play()
     }
 function myFunction217() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="17"
-    record()
     stopAllChannels()
     B17.play()
     }
 function myFunction218() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="18"
-    record()
     stopAllChannels()
     B18.play()
     }
 function myFunction219() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="19"
-    record()
     stopAllChannels()
     B19.play()
     }
 function myFunction220() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="20"
-    record()
     stopAllChannels()
     B20.play()
     }
 function myFunction221() {
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="21"
-    record()
     }
 
 function myFunction30() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="0"
-    record()
     stopAllChannels()
     G0.play()
     }
 function myFunction31() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="1"
-    record()
     stopAllChannels()
     G1.play()
     }
 function myFunction32() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="2"
-    record()
     stopAllChannels()
     G2.play()
     }
 function myFunction33() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="3"
-    record()
     stopAllChannels()
     G3.play()
     }
 function myFunction34() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="4"
-    record()
     stopAllChannels()
     G4.play()
     }
 function myFunction35() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="5"
-    record()
     stopAllChannels()
     G5.play()
     }
 function myFunction36() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="6"
-    record()
     stopAllChannels()
     G6.play()
     }
 function myFunction37() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="7"
-    record()
     stopAllChannels()
     G7.play()
     }
 function myFunction38() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="8"
-    record()
     stopAllChannels()
     G8.play()
     }
 function myFunction39() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="9"
-    record()
     stopAllChannels()
     G9.play()
     }
 function myFunction310() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="10"
-    record()
     stopAllChannels()
     G10.play()
     }
 function myFunction311() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="11"
-    record()
     stopAllChannels()
     G11.play()
     }
 function myFunction312() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="12"
-    record()
     stopAllChannels()
     G12.play()
     }
 function myFunction313() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="13"
-    record()
     stopAllChannels()
     G13.play()
     }
 function myFunction314() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="14"
-    record()
     stopAllChannels()
     G14.play()
     }
 function myFunction315() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="15"
-    record()
     stopAllChannels()
     G15.play()
     }
 function myFunction316() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="16"
-    record()
     stopAllChannels()
     G16.play()
     }
 function myFunction317() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="17"
-    record()
     stopAllChannels()
     G17.play()
     }
 function myFunction318() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="18"
-    record()
     stopAllChannels()
     G18.play()
     }
 function myFunction319() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="19"
-    record()
     stopAllChannels()
     G19.play()
     }
 function myFunction320() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="20"
-    record()
     stopAllChannels()
     G20.play()
     }
 function myFunction321() {
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="21"
-    record()
     }
 
 function myFunction40() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="0"
-    record()
     stopAllChannels()
     D0.play()
     }
 function myFunction41() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="1"
-    record()
     stopAllChannels()
     D1.play()
     }
 function myFunction42() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="2"
-    record()
     stopAllChannels()
     D2.play()
     }
 function myFunction43() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="3"
-    record()
     stopAllChannels()
     D3.play()
     }
 function myFunction44() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="4"
-    record()
     stopAllChannels()
     D4.play()
     }
 function myFunction45() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="5"
-    record()
     stopAllChannels()
     D5.play()
     }
 function myFunction46() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="6"
-    record()
     stopAllChannels()
     D6.play()
     }
 function myFunction47() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="7"
-    record()
     stopAllChannels()
     D7.play()
     }
 function myFunction48() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="8"
-    record()
     stopAllChannels()
     D8.play()
     }
 function myFunction49() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="9"
-    record()
     stopAllChannels()
     D9.play()
     }
 function myFunction410() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="10"
-    record()
     stopAllChannels()
     D10.play()
     }
 function myFunction411() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="11"
-    record()
     stopAllChannels()
     D11.play()
     }
 function myFunction412() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="12"
-    record()
     stopAllChannels()
     D12.play()
     }
 function myFunction413() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="13"
-    record()
     stopAllChannels()
     D13.play()
     }
 function myFunction414() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="14"
-    record()
     stopAllChannels()
     D14.play()
     }
 function myFunction415() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="15"
-    record()
     stopAllChannels()
     D15.play()
     }
 function myFunction416() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="16"
-    record()
     stopAllChannels()
     D16.play()
     }
 function myFunction417() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="17"
-    record()
     stopAllChannels()
     D17.play()
     }
 function myFunction418() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="18"
-    record()
     stopAllChannels()
     D18.play()
     }
 function myFunction419() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="19"
-    record()
     stopAllChannels()
     D19.play()
     }
 function myFunction420() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="20"
-    record()
     stopAllChannels()
     D20.play()
     }
 function myFunction421() {
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="21"
-    record()
     }
 function myFunction50() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="0"
-    record()
     stopAllChannels()
     A0.play()
     }
 function myFunction51() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="1"
-    record()
     stopAllChannels()
     A1.play()
     }
 function myFunction52() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="2"
-    record()
     stopAllChannels()
     A2.play()
     }
 function myFunction53() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="3"
-    record()
     stopAllChannels()
     A3.play()
     }
 function myFunction54() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="4"
-    record()
     stopAllChannels()
     A4.play()
     }
 function myFunction55() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="5"
-    record()
     stopAllChannels()
     A5.play()
     }
 function myFunction56() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="6"
-    record()
     stopAllChannels()
     A6.play()
     }
 function myFunction57() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="7"
-    record()
     stopAllChannels()
     A7.play()
     }
 function myFunction58() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="8"
-    record()
     stopAllChannels()
     A8.play()
     }
 function myFunction59() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="9"
-    record()
     stopAllChannels()
     A9.play()
     }
 function myFunction510() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="10"
-    record()
     stopAllChannels()
     A10.play()
     }
 function myFunction511() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="11"
-    record()
     stopAllChannels()
     A11.play()
     }
 function myFunction512() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="12"
-    record()
     stopAllChannels()
     A12.play()
     }
 function myFunction513() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="13"
-    record()
     stopAllChannels()
     A13.play()
     }
 function myFunction514() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="14"
-    record()
     stopAllChannels()
     A14.play()
     }
 function myFunction515() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="15"
-    record()
     stopAllChannels()
     A15.play()
     }
 function myFunction516() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="16"
-    record()
     stopAllChannels()
     A16.play()
     }
 function myFunction517() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="17"
-    record()
     stopAllChannels()
     A17.play()
     }
 function myFunction518() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="18"
-    record()
     stopAllChannels()
     A18.play()
     }
 function myFunction519() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="19"
-    record()
     stopAllChannels()
     A19.play()
     }
 function myFunction520() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="20"
-    record()
     stopAllChannels()
     A20.play()
     }
 function myFunction521() {
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="21"
-    record()
     }
 function myFunction60() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="0"
-    record()
     stopAllChannels()
     L0.play()
     }
 function myFunction61() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="1"
-    record()
     stopAllChannels()
     L1.play()
     }
 function myFunction62() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="2"
-    record()
     stopAllChannels()
     L2.play()
     }
 function myFunction63() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="3"
-    record()
     stopAllChannels()
     L3.play()
     }
 function myFunction64() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="4"
-    record()
     stopAllChannels()
     L4.play()
     }
 function myFunction65() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="5"
-    record()
     stopAllChannels()
     L5.play()
     }
 function myFunction66() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="6"
-    record()
     stopAllChannels()
     L6.play()
     }
 function myFunction67() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="7"
-    record()
     stopAllChannels()
     L7.play()
     }
 function myFunction68() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="8"
-    record()
     stopAllChannels()
     L8.play()
     }
 function myFunction69() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="9"
-    record()
     stopAllChannels()
     L9.play()
     }
 function myFunction610() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="10"
-    record()
     stopAllChannels()
     L10.play()
     }
 function myFunction611() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="11"
-    record()
     stopAllChannels()
     L11.play()
     }
 function myFunction612() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="12"
-    record()
     stopAllChannels()
     L12.play()
     }
 function myFunction613() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="13"
-    record()
     stopAllChannels()
     L13.play()
     }
 function myFunction614() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="14"
-    record()
     stopAllChannels()
     L14.play()
     }
 function myFunction615() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="15"
-    record()
     stopAllChannels()
     L15.play()
     }
 function myFunction616() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="16"
-    record()
     stopAllChannels()
     L16.play()
     }
 function myFunction617() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="17"
-    record()
     stopAllChannels()
     L17.play()
     }
 function myFunction618() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="18"
-    record()
     stopAllChannels()
     L18.play()
     }
 function myFunction619() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="19"
-    record()
     stopAllChannels()
     L19.play()
     }
 function myFunction620() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="20"
-    record()
     stopAllChannels()
     L20.play()
     }
 function myFunction621() {
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="21"
-    record()
     	
     }
 
@@ -2512,27 +1984,21 @@ function myFunction621() {
 
 function myFunctionClear1(){
 	document.getElementById(x_pos[i]).innerHTML=""
-    record()
 }
 function myFunctionClear2(){
 	document.getElementById(x_pos2[i]).innerHTML=""
-    record()
 }
 function myFunctionClear3(){
 	document.getElementById(x_pos3[i]).innerHTML=""
-    record()
 }
 function myFunctionClear4(){
 	document.getElementById(x_pos4[i]).innerHTML=""
-    record()
 }
 function myFunctionClear5(){
 	document.getElementById(x_pos5[i]).innerHTML=""
-    record()
 }
 function myFunctionClear6(){
 	document.getElementById(x_pos6[i]).innerHTML=""
-    record()
 }
 
 
@@ -2586,116 +2052,69 @@ function strum_6(){
 }
 
 
-document.getElementById("slidedown_1").addEventListener("mouseover", function(){
-    slidedown_1();
-});
-document.getElementById("slidedown_2").addEventListener("mouseover", function(){
-    slidedown_2();
-});
-document.getElementById("slidedown_3").addEventListener("mouseover", function(){
-    slidedown_3();
-});
-document.getElementById("slidedown_4").addEventListener("mouseover", function(){
-    slidedown_4();
-});
-document.getElementById("slidedown_5").addEventListener("mouseover", function(){
-    slidedown_5();
-});
-document.getElementById("slidedown_6").addEventListener("mouseover", function(){
-    slidedown_6();
-});
+
 
 function slidedown_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="\\"
     document.getElementById(x_pos[i]).style.left="20px"
-    record()
 }
 function slidedown_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="\\"
     document.getElementById(x_pos2[i]).style.left="20px"
-    record()
 }
 function slidedown_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="\\"
     document.getElementById(x_pos3[i]).style.left="20px"
-    record()
 }
 function slidedown_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="\\"
     document.getElementById(x_pos4[i]).style.left="20px"
-    record()
 }
 function slidedown_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="\\"
     document.getElementById(x_pos5[i]).style.left="20px"
-    record()
 }
 function slidedown_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="\\"
     document.getElementById(x_pos6[i]).style.left="20px"
-    record()
 }
 
-document.getElementById("slideup_1").addEventListener("mouseover", function(){
-    slideup_1();
-});
-document.getElementById("slideup_2").addEventListener("mouseover", function(){
-    slideup_2();
-});
-document.getElementById("slideup_3").addEventListener("mouseover", function(){
-    slideup_3();
-});
-document.getElementById("slideup_4").addEventListener("mouseover", function(){
-    slideup_4();
-});
-document.getElementById("slideup_5").addEventListener("mouseover", function(){
-    slideup_5();
-});
-document.getElementById("slideup_6").addEventListener("mouseover", function(){
-    slideup_6();
-});
 
 function slideup_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="/"
     document.getElementById(x_pos[i]).style.left="20px"
-    record()
 }
 function slideup_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="/"
     document.getElementById(x_pos2[i]).style.left="20px"
-    record()
 }
 function slideup_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="/"
     document.getElementById(x_pos3[i]).style.left="20px"
-    record()
 }
 function slideup_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="/"
     document.getElementById(x_pos4[i]).style.left="20px"
-    record()
 }
 function slideup_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="/"
     document.getElementById(x_pos5[i]).style.left="20px"
-    record()
 }
 function slideup_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="/"
     document.getElementById(x_pos6[i]).style.left="20px"
-    record()
 }
 
 document.getElementById("vibrato_1").addEventListener("mouseover", function(){
@@ -2747,26 +2166,6 @@ function vibrato_6(){
     document.getElementById(x_pos6[i]).style.left="20px"
 }
 
-document.getElementById("bend_1").addEventListener("mouseover",function(){
-    bend_1();
-})
-document.getElementById("bend_2").addEventListener("mouseover",function(){
-    bend_2();
-})
-document.getElementById("bend_3").addEventListener("mouseover",function(){
-    bend_3();
-})
-document.getElementById("bend_4").addEventListener("mouseover",function(){
-    bend_4();
-})
-document.getElementById("bend_5").addEventListener("mouseover",function(){
-    bend_5();
-})
-document.getElementById("bend_6").addEventListener("mouseover",function(){
-    bend_6();
-})
-
-
 
 function bend_1(){
     reset_style(x_pos[i])
@@ -2794,114 +2193,68 @@ function bend_2(){
     document.getElementById(x_pos6[i]).innerHTML="b"
     document.getElementById(x_pos6[i]).style.left="20px"
 }
-document.getElementById("pull_1").addEventListener("mouseover",function(){
-    pull_1();
-})
-document.getElementById("pull_2").addEventListener("mouseover",function(){
-    pull_2();
-})
-document.getElementById("pull_3").addEventListener("mouseover",function(){
-    pull_3();
-})
-document.getElementById("pull_4").addEventListener("mouseover",function(){
-    pull_4();
-})
-document.getElementById("pull_5").addEventListener("mouseover",function(){
-    pull_5();
-})
-document.getElementById("pull_6").addEventListener("mouseover",function(){
-    pull_6();
-})
+
 function pull_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="p"
     document.getElementById(x_pos[i]).style.left="20px"
-    record()
 }
 function pull_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="p"
     document.getElementById(x_pos2[i]).style.left="20px"
-    record()
 }
 function pull_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="p"
     document.getElementById(x_pos3[i]).style.left="20px"
-    record()
 }
 function pull_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="p"
     document.getElementById(x_pos4[i]).style.left="20px"
-    record()
 }
 function pull_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="p"
     document.getElementById(x_pos5[i]).style.left="20px"
-    record()
 }
 function pull_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="p"
     document.getElementById(x_pos6[i]).style.left="20px"
-    record()
 }
 
-document.getElementById("hammer_1").addEventListener("mouseover",function(){
-    hammer_1();
-})
-document.getElementById("hammer_2").addEventListener("mouseover",function(){
-    hammer_2();
-})
-document.getElementById("hammer_3").addEventListener("mouseover",function(){
-    hammer_3();
-})
-document.getElementById("hammer_4").addEventListener("mouseover",function(){
-    hammer_4();
-})
-document.getElementById("hammer_5").addEventListener("mouseover",function(){
-    hammer_5();
-})
-document.getElementById("hammer_6").addEventListener("mouseover",function(){
-    hammer_6();
-})
+
 function hammer_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="h"
     document.getElementById(x_pos[i]).style.left="20px"
-    record()
 }
 function hammer_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="h"
     document.getElementById(x_pos2[i]).style.left="20px"
-    record()
 }
 function hammer_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="h"
     document.getElementById(x_pos3[i]).style.left="20px"
-    record()
 }
 function hammer_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="h"
     document.getElementById(x_pos4[i]).style.left="20px"
-    record()
 }
 function hammer_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="h"
     document.getElementById(x_pos5[i]).style.left="20px"
-    record()
 }
 function hammer_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="h"
     document.getElementById(x_pos6[i]).style.left="20px"
-    record()
 }
 
 document.getElementById("strum_down_1").addEventListener("mouseover", function(){
@@ -2926,57 +2279,34 @@ function strum_down_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="^"
     document.getElementById(x_pos[i]).style.left="20px"
-    record()
 }
 function strum_down_2(){
     reset_style(x_pos2[i])	 
     document.getElementById(x_pos2[i]).innerHTML="^"
     document.getElementById(x_pos2[i]).style.left="20px"
-    record()
 }
 function strum_down_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="^"
     document.getElementById(x_pos3[i]).style.left="20px"
-    record()
 }
 function strum_down_4(){
     reset_style(x_pos4[i])	 
     document.getElementById(x_pos4[i]).innerHTML="^"
     document.getElementById(x_pos4[i]).style.left="20px"
-    record()
 }
 function strum_down_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="^"
     document.getElementById(x_pos5[i]).style.left="20px"
-    record()
 }
 function strum_down_6(){
     reset_style(x_pos6[i])	 
     document.getElementById(x_pos6[i]).innerHTML="^"
     document.getElementById(x_pos6[i]).style.left="20px"
-    record()
 }
 
-document.getElementById("ah_1").addEventListener("mouseover", function(){
-    ah_1();
-});
-document.getElementById("ah_2").addEventListener("mouseover", function(){
-    ah_2();
-});
-document.getElementById("ah_3").addEventListener("mouseover", function(){
-    ah_3();
-});
-document.getElementById("ah_4").addEventListener("mouseover", function(){
-    ah_4();
-});
-document.getElementById("ah_5").addEventListener("mouseover", function(){
-    ah_5();
-});
-document.getElementById("ah_6").addEventListener("mouseover", function(){
-    ah_6();
-});
+
 
 function ah_1(){
     reset_style(x_pos[i])
@@ -3009,24 +2339,7 @@ function ah_6(){
     document.getElementById(x_pos6[i]).style.left="20px"
 }
 
-document.getElementById("tap_1").addEventListener("mouseover", function(){
-    tap_1();
-});
-document.getElementById("tap_2").addEventListener("mouseover", function(){
-    tap_2();
-});
-document.getElementById("tap_3").addEventListener("mouseover", function(){
-    tap_3();
-});
-document.getElementById("tap_4").addEventListener("mouseover", function(){
-    tap_4();
-});
-document.getElementById("tap_5").addEventListener("mouseover", function(){
-    tap_5();
-});
-document.getElementById("tap_6").addEventListener("mouseover", function(){
-    tap_6();
-});
+
 function tap_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="t"
@@ -3080,32 +2393,26 @@ document.getElementById("mute_string_6").addEventListener("mouseover", function(
 function mute_string_1(){
     reset_style(x_pos[i])
     document.getElementById(x_pos[i]).innerHTML="X"
-    record()
 }
 function mute_string_2(){
     reset_style(x_pos2[i])
     document.getElementById(x_pos2[i]).innerHTML="X"
-    record()
 }
 function mute_string_3(){
     reset_style(x_pos3[i])
     document.getElementById(x_pos3[i]).innerHTML="X"
-    record()
 }
 function mute_string_4(){
     reset_style(x_pos4[i])
     document.getElementById(x_pos4[i]).innerHTML="X"
-    record()
 }
 function mute_string_5(){
     reset_style(x_pos5[i])
     document.getElementById(x_pos5[i]).innerHTML="X"
-    record()
 }
 function mute_string_6(){
     reset_style(x_pos6[i])
     document.getElementById(x_pos6[i]).innerHTML="X"
-    record()
 }
 function set_focus_tab_block_1(){
     i=0
@@ -3318,551 +2625,4 @@ function the_prev(){
                }
     //marker.style.marginLeft=i*44+".px";
 }
-function record(){
-    var recognition=new webkitSpeechRecognition();
-    recognition.lang="en-US";
-    recognition.onresult=function(event){
-        console.log(event.results[0][0].transcript)
-        if(event.results[0][0].transcript=='10'){
-            myFunction10()
-        }
-        else if(event.results[0][0].transcript=='11'){
-            myFunction11()
-        }
-        else if(event.results[0][0].transcript=='12'){
-            myFunction12()
-        }
-        else if(event.results[0][0].transcript=='13'){
-            myFunction13()
-        }
-        else if(event.results[0][0].transcript=='14'){
-            myFunction14()
-        }
-        else if(event.results[0][0].transcript=='15'){
-            myFunction15()
-        }
-        else if(event.results[0][0].transcript=='16'){
-            myFunction16()
-        }
-        else if(event.results[0][0].transcript=='17'){
-            myFunction17()
-        }
-        else if(event.results[0][0].transcript=='18'){
-            myFunction18()
-        }
-        else if(event.results[0][0].transcript=='19'){
-            myFunction19()
-        }
-        else if(event.results[0][0].transcript=='110'){
-            myFunction110()
-        }
-        else if(event.results[0][0].transcript=='111'){
-            myFunction111()
-        }
-        else if(event.results[0][0].transcript=='112'){
-            myFunction112()
-        }
-        else if(event.results[0][0].transcript=='113'){
-            myFunction113()
-        }
-        else if(event.results[0][0].transcript=='114'){
-            myFunction114()
-        }
-        else if(event.results[0][0].transcript=='115'){
-            myFunction115()
-        }
-        else if(event.results[0][0].transcript=='116'){
-            myFunction116()
-        }
-        else if(event.results[0][0].transcript=='117'){
-            myFunction117()
-        }
-        else if(event.results[0][0].transcript=='118'){
-            myFunction118()
-        }
-        else if(event.results[0][0].transcript=='119'){
-            myFunction119()
-        }
-        else if(event.results[0][0].transcript=='120'){
-            myFunction120()
-        }
-        else if(event.results[0][0].transcript=='121'){
-            myFunction121()
-        }
-        else if(event.results[0][0].transcript=='20'){
-            myFunction20()
-        }
-        else if(event.results[0][0].transcript=='21'){
-            myFunction21()
-        }
-        else if(event.results[0][0].transcript=='22'){
-            myFunction22()
-        }
-        else if(event.results[0][0].transcript=='23'){
-            myFunction23()
-        }
-        else if(event.results[0][0].transcript=='24'){
-            myFunction24()
-        }
-        else if(event.results[0][0].transcript=='25'){
-            myFunction25()
-        }
-        else if(event.results[0][0].transcript=='26'){
-            myFunction26()
-        }
-        else if(event.results[0][0].transcript=='27'){
-            myFunction27()
-        }
-        else if(event.results[0][0].transcript=='28'){
-            myFunction28()
-        }
-        else if(event.results[0][0].transcript=='29'){
-            myFunction29()
-        }
-        else if(event.results[0][0].transcript=='210'){
-            myFunction210()
-        }
-        else if(event.results[0][0].transcript=='211'){
-            myFunction211()
-        }
-        else if(event.results[0][0].transcript=='212'){
-            myFunction212()
-        }
-        else if(event.results[0][0].transcript=='213'){
-            myFunction213()
-        }
-        else if(event.results[0][0].transcript=='214'){
-            myFunction214()
-        }
-        else if(event.results[0][0].transcript=='215'){
-            myFunction215()
-        }
-        else if(event.results[0][0].transcript=='216'){
-            myFunction216()
-        }
-        else if(event.results[0][0].transcript=='217'){
-            myFunction217()
-        }
-        else if(event.results[0][0].transcript=='218'){
-            myFunction218()
-        }
-        else if(event.results[0][0].transcript=='219'){
-            myFunction219()
-        }
-        else if(event.results[0][0].transcript=='220'){
-            myFunction220()
-        }
-        else if(event.results[0][0].transcript=='221'){
-            myFunction221()
-        }
-        else if(event.results[0][0].transcript=='30'){
-            myFunction30()
-        }
-        else if(event.results[0][0].transcript=='31'){
-            myFunction31()
-        }
-        else if(event.results[0][0].transcript=='32'){
-            myFunction32()
-        }
-        else if(event.results[0][0].transcript=='33'){
-            myFunction33()
-        }
-        else if(event.results[0][0].transcript=='34'){
-            myFunction34()
-        }
-        else if(event.results[0][0].transcript=='35'){
-            myFunction35()
-        }
-        else if(event.results[0][0].transcript=='36'){
-            myFunction36()
-        }
-        else if(event.results[0][0].transcript=='37'){
-            myFunction37()
-        }
-        else if(event.results[0][0].transcript=='38'){
-            myFunction38()
-        }
-        else if(event.results[0][0].transcript=='39'){
-            myFunction39()
-        }
-        else if(event.results[0][0].transcript=='310'){
-            myFunction310()
-        }
-        else if(event.results[0][0].transcript=='311'){
-            myFunction311()
-        }
-        else if(event.results[0][0].transcript=='312'){
-            myFunction312()
-        }
-        else if(event.results[0][0].transcript=='313'){
-            myFunction313()
-        }
-        else if(event.results[0][0].transcript=='314'){
-            myFunction314()
-        }
-        else if(event.results[0][0].transcript=='315'){
-            myFunction315()
-        }
-        else if(event.results[0][0].transcript=='316'){
-            myFunction316()
-        }
-        else if(event.results[0][0].transcript=='317'){
-            myFunction317()
-        }
-        else if(event.results[0][0].transcript=='318'){
-            myFunction318()
-        }
-        else if(event.results[0][0].transcript=='319'){
-            myFunction319()
-        }
-        else if(event.results[0][0].transcript=='320'){
-            myFunction320()
-        }
-        else if(event.results[0][0].transcript=='321'){
-            myFunction321()
-        }
-        else if(event.results[0][0].transcript=='40'){
-            myFunction40()
-        }
-        else if(event.results[0][0].transcript=='41'){
-            myFunction41()
-        }
-        else if(event.results[0][0].transcript=='42'){
-            myFunction42()
-        }
-        else if(event.results[0][0].transcript=='43'){
-            myFunction43()
-        }
-        else if(event.results[0][0].transcript=='44'){
-            myFunction44()
-        }
-        else if(event.results[0][0].transcript=='45'){
-            myFunction45()
-        }
-        else if(event.results[0][0].transcript=='46'){
-            myFunction46()
-        }
-        else if(event.results[0][0].transcript=='47'){
-            myFunction47()
-        }
-        else if(event.results[0][0].transcript=='48'){
-            myFunction48()
-        }
-        else if(event.results[0][0].transcript=='49'){
-            myFunction49()
-        }
-        else if(event.results[0][0].transcript=='410'){
-            myFunction410()
-        }
-        else if(event.results[0][0].transcript=='411'){
-            myFunction411()
-        }
-        else if(event.results[0][0].transcript=='412'){
-            myFunction412()
-        }
-        else if(event.results[0][0].transcript=='413'){
-            myFunction413()
-        }
-        else if(event.results[0][0].transcript=='414'){
-            myFunction414()
-        }
-        else if(event.results[0][0].transcript=='415'){
-            myFunction415()
-        }
-        else if(event.results[0][0].transcript=='416'){
-            myFunction416()
-        }
-        else if(event.results[0][0].transcript=='417'){
-            myFunction417()
-        }
-        else if(event.results[0][0].transcript=='418'){
-            myFunction418()
-        }
-        else if(event.results[0][0].transcript=='419'){
-            myFunction419()
-        }
-        else if(event.results[0][0].transcript=='420'){
-            myFunction420()
-        }
-        else if(event.results[0][0].transcript=='421'){
-            myFunction421()
-        }
-        else if(event.results[0][0].transcript=='50'){
-            myFunction50()
-        }
-        else if(event.results[0][0].transcript=='51'){
-            myFunction51()
-        }
-        else if(event.results[0][0].transcript=='52'){
-            myFunction52()
-        }
-        else if(event.results[0][0].transcript=='53'){
-            myFunction53()
-        }
-        else if(event.results[0][0].transcript=='54'){
-            myFunction54()
-        }
-        else if(event.results[0][0].transcript=='55'){
-            myFunction55()
-        }
-        else if(event.results[0][0].transcript=='56'){
-            myFunction56()
-        }
-        else if(event.results[0][0].transcript=='57'){
-            myFunction57()
-        }
-        else if(event.results[0][0].transcript=='58'){
-            myFunction58()
-        }
-        else if(event.results[0][0].transcript=='59'){
-            myFunction59()
-        }
-        else if(event.results[0][0].transcript=='510'){
-            myFunction510()
-        }
-        else if(event.results[0][0].transcript=='511'){
-            myFunction511()
-        }
-        else if(event.results[0][0].transcript=='512'){
-            myFunction512()
-        }
-        else if(event.results[0][0].transcript=='513'){
-            myFunction513()
-        }
-        else if(event.results[0][0].transcript=='514'){
-            myFunction514()
-        }
-        else if(event.results[0][0].transcript=='515'){
-            myFunction515()
-        }
-        else if(event.results[0][0].transcript=='516'){
-            myFunction516()
-        }
-        else if(event.results[0][0].transcript=='517'){
-            myFunction517()
-        }
-        else if(event.results[0][0].transcript=='518'){
-            myFunction518()
-        }
-        else if(event.results[0][0].transcript=='519'){
-            myFunction519()
-        }
-        else if(event.results[0][0].transcript=='520'){
-            myFunction520()
-        }
-        else if(event.results[0][0].transcript=='521'){
-            myFunction521()
-        }
-        else if(event.results[0][0].transcript=='60'){
-            myFunction60()
-        }
-        else if(event.results[0][0].transcript=='61'){
-            myFunction61()
-        }
-        else if(event.results[0][0].transcript=='62'){
-            myFunction62()
-        }
-        else if(event.results[0][0].transcript=='63'){
-            myFunction63()
-        }
-        else if(event.results[0][0].transcript=='64'){
-            myFunction64()
-        }
-        else if(event.results[0][0].transcript=='65'){
-            myFunction65()
-        }
-        else if(event.results[0][0].transcript=='66'){
-            myFunction66()
-        }
-        else if(event.results[0][0].transcript=='67'){
-            myFunction67()
-        }
-        else if(event.results[0][0].transcript=='68'){
-            myFunction68()
-        }
-        else if(event.results[0][0].transcript=='69'){
-            myFunction69()
-        }
-        else if(event.results[0][0].transcript=='610'){
-            myFunction610()
-        }
-        else if(event.results[0][0].transcript=='611'){
-            myFunction611()
-        }
-        else if(event.results[0][0].transcript=='612'){
-            myFunction612()
-        }
-        else if(event.results[0][0].transcript=='613'){
-            myFunction613()
-        }
-        else if(event.results[0][0].transcript=='614'){
-            myFunction614()
-        }
-        else if(event.results[0][0].transcript=='615'){
-            myFunction615()
-        }
-        else if(event.results[0][0].transcript=='616'){
-            myFunction616()
-        }
-        else if(event.results[0][0].transcript=='617'){
-            myFunction617()
-        }
-        else if(event.results[0][0].transcript=='618'){
-            myFunction618()
-        }
-        else if(event.results[0][0].transcript=='619'){
-            myFunction619()
-        }
-        else if(event.results[0][0].transcript=='620'){
-            myFunction620()
-        }
-        else if(event.results[0][0].transcript=='621'){
-            myFunction621()
-        }
-        else if(event.results[0][0].transcript=='hammer 1'){
-            hammer_1()
-        }
-        else if(event.results[0][0].transcript=='hammer 2'){
-            hammer_2()
-        }
-        else if(event.results[0][0].transcript=='hammer 3'){
-            hammer_3()
-        }
-        else if(event.results[0][0].transcript=='hammer 4'){
-            hammer_4()
-        }
-        else if(event.results[0][0].transcript=='hammer 5'){
-            hammer_5()
-        }
-        else if(event.results[0][0].transcript=='hammer 6'){
-            hammer_6()
-        }
-        else if(event.results[0][0].transcript=='pull 1'){
-            pull_1()
-        }
-        else if(event.results[0][0].transcript=='pull 2'){
-            pull_2()
-        }
-        else if(event.results[0][0].transcript=='pull 3'){
-            pull_3()
-        }
-        else if(event.results[0][0].transcript=='pull 4'){
-            pull_4()
-        }
-        else if(event.results[0][0].transcript=='pull 5'){
-            pull_5()
-        }
-        else if(event.results[0][0].transcript=='pull 6'){
-            pull_6()
-        }
-        else if(event.results[0][0].transcript=='strum 1'){
-            strum_down_1()
-        }
-        else if(event.results[0][0].transcript=='strum 2'){
-            strum_down_2()
-        }
-        else if(event.results[0][0].transcript=='strum 3'){
-            strum_down_3()
-        }
-        else if(event.results[0][0].transcript=='strum 4'){
-            strum_down_4()
-        }
-        else if(event.results[0][0].transcript=='strum 5'){
-            strum_down_5()
-        }
-        else if(event.results[0][0].transcript=='strum 6'){
-            strum_down_6()
-        }
-        else if(event.results[0][0].transcript=='slide up 1'){
-            slideup_1()
-        }
-        else if(event.results[0][0].transcript=='slide up 2'){
-            slideup_2()
-        }
-        else if(event.results[0][0].transcript=='slide up 3'){
-            slideup_3()
-        }
-        else if(event.results[0][0].transcript=='slide up 4'){
-            slideup_4()
-        }
-        else if(event.results[0][0].transcript=='slide up 5'){
-            slideup_5()
-        }
-        else if(event.results[0][0].transcript=='slide up 6'){
-            slideup_6()
-        }
-        else if(event.results[0][0].transcript=='slide down 1'){
-            slidedown_1()
-        }
-        else if(event.results[0][0].transcript=='slide down 2'){
-            slidedown_2()
-        }
-        else if(event.results[0][0].transcript=='slide down 3'){
-            slidedown_3()
-        }
-        else if(event.results[0][0].transcript=='slide down 4'){
-            slidedown_4()
-        }
-        else if(event.results[0][0].transcript=='slide down 5'){
-            slidedown_5()
-        }
-        else if(event.results[0][0].transcript=='slide down 6'){
-            slidedown_6()
-        }
-        else if(event.results[0][0].transcript=='mute 1'){
-            mute_string_1()
-        }
-        else if(event.results[0][0].transcript=='mute 2'){
-            mute_string_2()
-        }
-        else if(event.results[0][0].transcript=='mute 3'){
-            mute_string_3()
-        }
-        else if(event.results[0][0].transcript=='mute 4'){
-            mute_string_4()
-        }
-        else if(event.results[0][0].transcript=='mute 5'){
-            mute_string_5()
-        }
-        else if(event.results[0][0].transcript=='mute 6'){
-            mute_string_6()
-        }
-        else if(event.results[0][0].transcript=='clear 1'){
-            myFunctionClear1()
-        }
-        else if(event.results[0][0].transcript=='clear 2'){
-            myFunctionClear2()
-        }
-        else if(event.results[0][0].transcript=='clear 3'){
-            myFunctionClear3()
-        }
-        else if(event.results[0][0].transcript=='clear 4'){
-            myFunctionClear4()
-        }
-        else if(event.results[0][0].transcript=='clear 5'){
-            myFunctionClear5()
-        }
-        else if(event.results[0][0].transcript=='clear 6'){
-            myFunctionClear6()
-        }
-        else if(event.results[0][0].transcript=='clear all'){
-            myFunctionClear1()
-            myFunctionClear2()
-            myFunctionClear3()
-            myFunctionClear4()
-            myFunctionClear5()
-            myFunctionClear6()
-        }
-        else if(event.results[0][0].transcript=='next'){
-            the_next()
-        }
-        else if(event.results[0][0].transcript=='previous'){
-            the_prev()
-        }
-        else{
-            record()
-        }
-    }
-    recognition.start();
 
-}
