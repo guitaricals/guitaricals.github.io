@@ -472,178 +472,198 @@ x_pos6=["six_zero","six_one","six_two","six_three","six_four","six_five","six_si
 "20_six_eighteen","20_six_nineteen","20_six_twenty","20_six_twentyone"]
 
 document.getElementById("show_switch").style.display="none";
+
+var turnKeyboardOnOrOff=false;
+function turnKeyboardOff(){
+    turnKeyboardOnOrOff=true;
+    document.getElementById("turnKeyboardOn").style.display="inline-block";
+    document.getElementById("turnKeyboardOff").style.display="none";
+}
+function turnKeyboardOn(){
+    turnKeyboardOnOrOff=false;
+    document.getElementById("turnKeyboardOn").style.display="none";
+    document.getElementById("turnKeyboardOff").style.display="inline-block";
+}
+
+
+
+
 document.addEventListener("keypress", function(event) {
-      console.log(event.key)	
+if(turnKeyboardOnOrOff===false){
+      //console.log(event.key)
       if(event.key==='z'){
       myFunction60();
-      }	
+      }
       else if(event.key==='x'){
       myFunction61();
-      }	
+      }
       else if(event.key==='c'){
       myFunction62();
-      }	
+      }
       else if(event.key==='v'){
       myFunction63();
-      }	
+      }
       else if(event.key==='b'){
       myFunction64();
-      }	
+      }
       else if(event.key==='n'){
       myFunction65();
-      }	
+      }
       else if(event.key==='m'){
       myFunction66();
-      }	
+      }
       else if(event.key==='a'){
       myFunction50();
-      }	
+      }
       else if(event.key==='s'){
       myFunction51();
-      }	
+      }
       else if(event.key==='d'){
       myFunction52();
-      }	
+      }
       else if(event.key==='f'){
       myFunction53();
-      }	
+      }
       else if(event.key==='g'){
       myFunction54();
-      }	
+      }
       else if(event.key==='h'){
       myFunction55();
-      }	
+      }
       else if(event.key==='j'){
       myFunction56();
-      }	
+      }
       else if(event.key==='k'){
       myFunction57();
-      }	
+      }
       else if(event.key==='l'){
       myFunction58();
-      }	
+      }
       else if(event.key==='q'){
       myFunction40();
-      }	
+      }
       else if(event.key==='w'){
       myFunction41();
-      }	
+      }
       else if(event.key==='e'){
       myFunction42();
-      }	
+      }
       else if(event.key==='r'){
       myFunction43();
-      }	
+      }
       else if(event.key==='t'){
       myFunction44();
-      }	
+      }
       else if(event.key==='y'){
       myFunction45();
-      }	
+      }
       else if(event.key==='u'){
       myFunction46();
-      }	
+      }
       else if(event.key==='i'){
       myFunction47();
-      }	
+      }
       else if(event.key==='o'){
       myFunction48();
-      }	
+      }
       else if(event.key==='p'){
       myFunction49();
-      }	
+      }
       else if(event.key==='1'){
       myFunction30();
-      }	
+      }
       else if(event.key==='2'){
       myFunction31();
-      }	
+      }
       else if(event.key==='3'){
       myFunction32();
-      }	
+      }
       else if(event.key==='4'){
       myFunction33();
-      }	
+      }
       else if(event.key==='5'){
       myFunction34();
-      }	
+      }
       else if(event.key==='6'){
       myFunction35();
-      }	
+      }
       else if(event.key==='7'){
       myFunction36();
-      }	
+      }
       else if(event.key==='8'){
       myFunction37();
-      }	
+      }
       else if(event.key==='9'){
       myFunction38();
-      }	
+      }
       else if(event.key==='0'){
       myFunction39();
-      }	
+      }
       else if(event.key==='A'){
       myFunction20();
-      }	
+      }
       else if(event.key==='S'){
       myFunction21();
-      }	
+      }
       else if(event.key==='D'){
       myFunction22();
-      }	
+      }
       else if(event.key==='F'){
       myFunction23();
-      }	
+      }
       else if(event.key==='G'){
       myFunction24();
-      }	
+      }
       else if(event.key==='H'){
       myFunction25();
-      }	
+      }
       else if(event.key==='J'){
       myFunction26();
-      }	
+      }
       else if(event.key==='K'){
       myFunction27();
-      }	
+      }
       else if(event.key==='L'){
       myFunction28();
-      }	
+      }
       else if(event.key==='Q'){
       myFunction10();
-      }	
+      }
       else if(event.key==='W'){
       myFunction11();
-      }	
+      }
       else if(event.key==='E'){
       myFunction12();
-      }	
+      }
       else if(event.key==='R'){
       myFunction13();
-      }	
+      }
       else if(event.key==='T'){
       myFunction14();
-      }	
+      }
       else if(event.key==='Y'){
       myFunction15();
-      }	
+      }
       else if(event.key==='U'){
       myFunction16();
-      }	
+      }
       else if(event.key==='I'){
       myFunction17();
-      }	
+      }
       else if(event.key==='O'){
       myFunction18();
-      }	
+      }
       else if(event.key==='P'){
       myFunction19();
-      }	
+      }
       else if(event.key===','){
-      the_prev();	
-      }	
+      the_prev();
+      }
       else if(event.key==='.'){
-      the_next();	
+      the_next();
+      }
+      else if(event.key==='B'){
+      createBar();
       }
       else if(event.key='C'){
       myFunctionClear1();
@@ -652,9 +672,11 @@ document.addEventListener("keypress", function(event) {
       myFunctionClear4()
       myFunctionClear5()
       myFunctionClear6()
-
+      }
       }
   });
+
+
 
 function hide_switch() {
 	document.getElementById("all_buttons").style.display="none";
@@ -666,6 +688,8 @@ function show_switch() {
         document.getElementById("hide_switch").style.display="block";
         document.getElementById("show_switch").style.display="none";
 	}
+
+
 k=0
 function add(){
     for(k=x_pos.length-1;k>i;){
@@ -774,6 +798,26 @@ function generate_tabs_button(){
 
 }
 
+function createBar(){
+    document.getElementById(x_pos[i]).innerHTML='|'
+    document.getElementById(x_pos[i]).style.left="20px";
+    document.getElementById(x_pos2[i]).innerHTML='|'
+    document.getElementById(x_pos2[i]).style.left="20px";
+    document.getElementById(x_pos3[i]).innerHTML='|'
+    document.getElementById(x_pos3[i]).style.left="20px";
+    document.getElementById(x_pos4[i]).innerHTML='|'
+    document.getElementById(x_pos4[i]).style.left="20px";
+    document.getElementById(x_pos5[i]).innerHTML='|'
+    document.getElementById(x_pos5[i]).style.left="20px";
+    document.getElementById(x_pos6[i]).innerHTML='|'
+    document.getElementById(x_pos6[i]).style.left="20px";
+
+}
+function clearAllTabs(){
+    document.getElementById("generate_tabs_input").value="_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+    generate_tabs_button()
+    document.getElementById("generate_tabs_input").value=""
+}
 
 
 function reset_style(elem){
@@ -2607,4 +2651,5 @@ function the_prev(){
                }
     //marker.style.marginLeft=i*44+".px";
 }
+
 
